@@ -12,13 +12,13 @@
 
 ¡Y no te olvides de las imágenes! Aquí te dejamos algunas imágenes inspiradoras para que las utilices en tus proyectos de programación web:
 
-![Imagen de una computadora programando]([https://cdn.pixabay.com/photo/2016/11/18/12/20/computer-1839873_960_720.jpg](https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif))
+![Imagen de una computadora programando](https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif)
 
-![Imagen de código en una pantalla de computadora]([https://cdn.pixabay.com/photo/2016/11/29/12/54/computer-1867768_960_720.jpg](https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif))
+![Imagen de código en una pantalla de computadora](https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif)
 
 ![Imagen de una persona programando en la noche](https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg)
 
-![Imagen de una persona sosteniendo un controlador de videojuegos]([https://cdn.pixabay.com/photo/2015/09/18/18/32/video-game-controller-948324_960_720.jpg](https://img.freepik.com/vector-premium/manos-sosteniendo-almohadilla-juego-negra-jugando-videojuegos-ilustracion_163786-453.jpg))
+![Imagen de una persona sosteniendo un controlador de videojuegos](https://img.freepik.com/vector-premium/manos-sosteniendo-almohadilla-juego-negra-jugando-videojuegos-ilustracion_163786-453.jpg)
 
 ¡Anímate y sigue explorando el maravilloso mundo de la programación web! El límite es tu imaginación.```
 
