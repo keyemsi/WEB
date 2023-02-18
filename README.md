@@ -16,7 +16,7 @@
 
 ![Imagen de código en una pantalla de computadora](https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif)
 
-![Imagen de una persona programando en la noche](https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg)
+![Imagen de una persona programando en la noche](https://media.tenor.com/AGgVj_aylZUAAAAd/coraline-dad.gif)
 
 ![Imagen de una persona sosteniendo un controlador de videojuegos](https://img.freepik.com/vector-premium/manos-sosteniendo-almohadilla-juego-negra-jugando-videojuegos-ilustracion_163786-453.jpg)
 
