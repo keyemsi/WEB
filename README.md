@@ -14,11 +14,7 @@
 
 ![Imagen de una computadora programando](https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif)
 
-![Imagen de código en una pantalla de computadora](https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif)
-
 ![Imagen de una persona programando en la noche](https://media.tenor.com/AGgVj_aylZUAAAAd/coraline-dad.gif)
-
-![Imagen de una persona sosteniendo un controlador de videojuegos](https://img.freepik.com/vector-premium/manos-sosteniendo-almohadilla-juego-negra-jugando-videojuegos-ilustracion_163786-453.jpg)
 
 ¡Anímate y sigue explorando el maravilloso mundo de la programación web! El límite es tu imaginación.```
 
