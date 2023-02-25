@@ -1,0 +1,58 @@
+/* Estilos generales de la página */
+body {
+  background-color: #ffd8d8; /* Fondo rosa claro */
+  font-family: 'Arial', sans-serif; /* Fuente del texto */
+}
+
+/* Estilos de los inputs */
+input[type="text"],
+input[type="email"],
+textarea {
+  background-color: #fff; /* Fondo blanco */
+  border: none; /* Sin borde */
+  border-radius: 20px; /* Bordes redondeados */
+  padding: 10px; /* Espacio interno */
+  font-size: 16px; /* Tamaño de letra */
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Sombra */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo de los botones */
+button {
+  background-color: #ff7f7f; /* Fondo rosa oscuro */
+  color: #fff; /* Texto blanco */
+  border: none; /* Sin borde */
+  border-radius: 20px; /* Bordes redondeados */
+  padding: 10px 20px; /* Espacio interno */
+  font-size: 16px; /* Tamaño de letra */
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Sombra */
+  cursor: pointer; /* Cursor de puntero */
+}
+
+/* Estilo de los labels */
+label {
+  display: block; /* En bloque */
+  margin-bottom: 10px; /* Margen inferior */
+  font-size: 18px; /* Tamaño de letra */
+  font-weight: bold; /* Negrita */
+  color: #ff7f7f; /* Texto rosa oscuro */
+}
+
+/* Estilo del título de la página */
+h1 {
+  color: #ff7f7f; /* Texto rosa oscuro */
+  font-size: 40px; /* Tamaño de letra */
+  margin-top: 50px; /* Margen superior */
+  text-align: center; /* Centrado */
+}
+
+/* Estilo de las imágenes */
+img {
+  max-width: 100%; /* Ancho máximo del contenedor */
+  height: auto; /* Altura automática */
+  display: block; /* En bloque */
+  margin: auto; /* Margen automático */
+  margin-bottom: 20px; /* Margen inferior */
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Sombra */
+  border-radius: 20px; /* Bordes redondeados */
+}
